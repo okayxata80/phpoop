@@ -1,0 +1,15 @@
+{
+    "name": "bipinregmi/oopphp",
+    "autoload": {
+        "psr-4": {
+            "Bipinregmi\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BIpin",
+            "email": "bipin.regmi.s21@gmail.com"
+        }
+    ],
+    "require": {}
+}
