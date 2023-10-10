@@ -38,7 +38,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST" && isset($_POST)) {
                 <div class="col-md-12">
                     <div class="card">
                         <div class="card-header">
-                            Create User
+                            <h1>Create User</h1>
                         </div>
                         <div class="card-body">
                             <form action="create.php" method="POST">

@@ -27,7 +27,7 @@ $user = $obj->find($_GET['user_id']);
                 <div class="col-md-12">
                     <div class="card">
                         <div class="card-header">
-                            Create User
+                            <h1>Create User</h1>
                         </div>
                         <div class="card-body">
                             <form action="update.php" method="POST">

@@ -22,6 +22,7 @@ $users = $user->all();
 </head>
 
 <body>
+    <h1>Changes1</h1>
     <section id="table">
         <div class="container mt-5">
             <div class="row">
@@ -29,6 +30,7 @@ $users = $user->all();
                     <a href="create.php" class="btn btn-success">Add New</a>
                 </div>
                 <div class="col-md-12">
+                    <h2>Table</h2>
                     <table class="table table-bordered">
                         <tr>
                             <th>ID</th>
